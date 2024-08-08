@@ -1,0 +1,7 @@
+print("  A  " + "  " + "EEEEE" + "  " + "Y   Y")
+print(" A A " + "  " + "E    " + "  " + " Y Y ")
+print("A   A" + "  " + "E    " + "  " + "  Y  ")
+print("AAAAA" + "  " + "EEE  " + "  " + "  Y  ")
+print("A   A" + "  " + "E    " + "  " + "  Y  ")
+print("A   A" + "  " + "E    " + "  " + "  Y  ")
+print("A   A" + "  " + "EEEEE" + "  " + "  Y  ")
