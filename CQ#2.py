@@ -2,10 +2,10 @@
 balance = 1000
 
 def print_balance(): 
-    print(f"BALANCE IS {str(balance)}")
+  print(f"BALANCE IS {str(balance)}")
 
 def deduct(amount):
-    print(f"UPDATE BALANCE IS {str(balance - amount)}")
+  print(f"UPDATE BALANCE IS {str(balance - amount)}")
 
 # NESTED FUNCTION
 def calculate_interest_of_savings():
