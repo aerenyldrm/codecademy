@@ -1,0 +1,15 @@
+C:\Users\aeren\Desktop\Programming\codecademy\GreetingsUniverse\bin\Debug\net8.0\GreetingsUniverse.exe
+C:\Users\aeren\Desktop\Programming\codecademy\GreetingsUniverse\bin\Debug\net8.0\GreetingsUniverse.deps.json
+C:\Users\aeren\Desktop\Programming\codecademy\GreetingsUniverse\bin\Debug\net8.0\GreetingsUniverse.runtimeconfig.json
+C:\Users\aeren\Desktop\Programming\codecademy\GreetingsUniverse\bin\Debug\net8.0\GreetingsUniverse.dll
+C:\Users\aeren\Desktop\Programming\codecademy\GreetingsUniverse\bin\Debug\net8.0\GreetingsUniverse.pdb
+C:\Users\aeren\Desktop\Programming\codecademy\GreetingsUniverse\obj\Debug\net8.0\GreetingsUniverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aeren\Desktop\Programming\codecademy\GreetingsUniverse\obj\Debug\net8.0\GreetingsUniverse.AssemblyInfoInputs.cache
+C:\Users\aeren\Desktop\Programming\codecademy\GreetingsUniverse\obj\Debug\net8.0\GreetingsUniverse.AssemblyInfo.cs
+C:\Users\aeren\Desktop\Programming\codecademy\GreetingsUniverse\obj\Debug\net8.0\GreetingsUniverse.csproj.CoreCompileInputs.cache
+C:\Users\aeren\Desktop\Programming\codecademy\GreetingsUniverse\obj\Debug\net8.0\GreetingsUniverse.sourcelink.json
+C:\Users\aeren\Desktop\Programming\codecademy\GreetingsUniverse\obj\Debug\net8.0\GreetingsUniverse.dll
+C:\Users\aeren\Desktop\Programming\codecademy\GreetingsUniverse\obj\Debug\net8.0\refint\GreetingsUniverse.dll
+C:\Users\aeren\Desktop\Programming\codecademy\GreetingsUniverse\obj\Debug\net8.0\GreetingsUniverse.pdb
+C:\Users\aeren\Desktop\Programming\codecademy\GreetingsUniverse\obj\Debug\net8.0\GreetingsUniverse.genruntimeconfig.cache
+C:\Users\aeren\Desktop\Programming\codecademy\GreetingsUniverse\obj\Debug\net8.0\ref\GreetingsUniverse.dll

@@ -1,0 +1,7 @@
+C:\Users\aeren\Desktop\Programming\codecademy\ConsoleCreatures\ConsoleCreatures\bin\Debug\ConsoleCreatures.exe.config
+C:\Users\aeren\Desktop\Programming\codecademy\ConsoleCreatures\ConsoleCreatures\bin\Debug\ConsoleCreatures.exe
+C:\Users\aeren\Desktop\Programming\codecademy\ConsoleCreatures\ConsoleCreatures\bin\Debug\ConsoleCreatures.pdb
+C:\Users\aeren\Desktop\Programming\codecademy\ConsoleCreatures\ConsoleCreatures\obj\Debug\ConsoleCreatures.csproj.AssemblyReference.cache
+C:\Users\aeren\Desktop\Programming\codecademy\ConsoleCreatures\ConsoleCreatures\obj\Debug\ConsoleCreatures.csproj.CoreCompileInputs.cache
+C:\Users\aeren\Desktop\Programming\codecademy\ConsoleCreatures\ConsoleCreatures\obj\Debug\ConsoleCreatures.exe
+C:\Users\aeren\Desktop\Programming\codecademy\ConsoleCreatures\ConsoleCreatures\obj\Debug\ConsoleCreatures.pdb

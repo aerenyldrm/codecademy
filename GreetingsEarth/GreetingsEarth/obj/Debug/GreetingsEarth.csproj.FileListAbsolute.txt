@@ -1,0 +1,7 @@
+C:\Users\aeren\Desktop\Programming\codecademy\GreetingsEarth\GreetingsEarth\bin\Debug\GreetingsEarth.exe.config
+C:\Users\aeren\Desktop\Programming\codecademy\GreetingsEarth\GreetingsEarth\bin\Debug\GreetingsEarth.exe
+C:\Users\aeren\Desktop\Programming\codecademy\GreetingsEarth\GreetingsEarth\bin\Debug\GreetingsEarth.pdb
+C:\Users\aeren\Desktop\Programming\codecademy\GreetingsEarth\GreetingsEarth\obj\Debug\GreetingsEarth.csproj.AssemblyReference.cache
+C:\Users\aeren\Desktop\Programming\codecademy\GreetingsEarth\GreetingsEarth\obj\Debug\GreetingsEarth.csproj.CoreCompileInputs.cache
+C:\Users\aeren\Desktop\Programming\codecademy\GreetingsEarth\GreetingsEarth\obj\Debug\GreetingsEarth.exe
+C:\Users\aeren\Desktop\Programming\codecademy\GreetingsEarth\GreetingsEarth\obj\Debug\GreetingsEarth.pdb
