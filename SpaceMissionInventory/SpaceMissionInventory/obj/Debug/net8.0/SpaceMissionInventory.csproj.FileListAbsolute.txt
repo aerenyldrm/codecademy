@@ -1,0 +1,15 @@
+C:\Users\aeren\Desktop\Programming\codecademy\SpaceMissionInventory\SpaceMissionInventory\bin\Debug\net8.0\SpaceMissionInventory.exe
+C:\Users\aeren\Desktop\Programming\codecademy\SpaceMissionInventory\SpaceMissionInventory\bin\Debug\net8.0\SpaceMissionInventory.deps.json
+C:\Users\aeren\Desktop\Programming\codecademy\SpaceMissionInventory\SpaceMissionInventory\bin\Debug\net8.0\SpaceMissionInventory.runtimeconfig.json
+C:\Users\aeren\Desktop\Programming\codecademy\SpaceMissionInventory\SpaceMissionInventory\bin\Debug\net8.0\SpaceMissionInventory.dll
+C:\Users\aeren\Desktop\Programming\codecademy\SpaceMissionInventory\SpaceMissionInventory\bin\Debug\net8.0\SpaceMissionInventory.pdb
+C:\Users\aeren\Desktop\Programming\codecademy\SpaceMissionInventory\SpaceMissionInventory\obj\Debug\net8.0\SpaceMissionInventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aeren\Desktop\Programming\codecademy\SpaceMissionInventory\SpaceMissionInventory\obj\Debug\net8.0\SpaceMissionInventory.AssemblyInfoInputs.cache
+C:\Users\aeren\Desktop\Programming\codecademy\SpaceMissionInventory\SpaceMissionInventory\obj\Debug\net8.0\SpaceMissionInventory.AssemblyInfo.cs
+C:\Users\aeren\Desktop\Programming\codecademy\SpaceMissionInventory\SpaceMissionInventory\obj\Debug\net8.0\SpaceMissionInventory.csproj.CoreCompileInputs.cache
+C:\Users\aeren\Desktop\Programming\codecademy\SpaceMissionInventory\SpaceMissionInventory\obj\Debug\net8.0\SpaceMissionInventory.sourcelink.json
+C:\Users\aeren\Desktop\Programming\codecademy\SpaceMissionInventory\SpaceMissionInventory\obj\Debug\net8.0\SpaceMissionInventory.dll
+C:\Users\aeren\Desktop\Programming\codecademy\SpaceMissionInventory\SpaceMissionInventory\obj\Debug\net8.0\refint\SpaceMissionInventory.dll
+C:\Users\aeren\Desktop\Programming\codecademy\SpaceMissionInventory\SpaceMissionInventory\obj\Debug\net8.0\SpaceMissionInventory.pdb
+C:\Users\aeren\Desktop\Programming\codecademy\SpaceMissionInventory\SpaceMissionInventory\obj\Debug\net8.0\SpaceMissionInventory.genruntimeconfig.cache
+C:\Users\aeren\Desktop\Programming\codecademy\SpaceMissionInventory\SpaceMissionInventory\obj\Debug\net8.0\ref\SpaceMissionInventory.dll
