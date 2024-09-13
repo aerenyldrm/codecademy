@@ -1,0 +1,15 @@
+C:\Users\aeren\Desktop\Programming\codecademy\TheObjectOfYourAffection\TheObjectOfYourAffection\bin\Debug\net8.0\TheObjectOfYourAffection.exe
+C:\Users\aeren\Desktop\Programming\codecademy\TheObjectOfYourAffection\TheObjectOfYourAffection\bin\Debug\net8.0\TheObjectOfYourAffection.deps.json
+C:\Users\aeren\Desktop\Programming\codecademy\TheObjectOfYourAffection\TheObjectOfYourAffection\bin\Debug\net8.0\TheObjectOfYourAffection.runtimeconfig.json
+C:\Users\aeren\Desktop\Programming\codecademy\TheObjectOfYourAffection\TheObjectOfYourAffection\bin\Debug\net8.0\TheObjectOfYourAffection.dll
+C:\Users\aeren\Desktop\Programming\codecademy\TheObjectOfYourAffection\TheObjectOfYourAffection\bin\Debug\net8.0\TheObjectOfYourAffection.pdb
+C:\Users\aeren\Desktop\Programming\codecademy\TheObjectOfYourAffection\TheObjectOfYourAffection\obj\Debug\net8.0\TheObjectOfYourAffection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aeren\Desktop\Programming\codecademy\TheObjectOfYourAffection\TheObjectOfYourAffection\obj\Debug\net8.0\TheObjectOfYourAffection.AssemblyInfoInputs.cache
+C:\Users\aeren\Desktop\Programming\codecademy\TheObjectOfYourAffection\TheObjectOfYourAffection\obj\Debug\net8.0\TheObjectOfYourAffection.AssemblyInfo.cs
+C:\Users\aeren\Desktop\Programming\codecademy\TheObjectOfYourAffection\TheObjectOfYourAffection\obj\Debug\net8.0\TheObjectOfYourAffection.csproj.CoreCompileInputs.cache
+C:\Users\aeren\Desktop\Programming\codecademy\TheObjectOfYourAffection\TheObjectOfYourAffection\obj\Debug\net8.0\TheObjectOfYourAffection.sourcelink.json
+C:\Users\aeren\Desktop\Programming\codecademy\TheObjectOfYourAffection\TheObjectOfYourAffection\obj\Debug\net8.0\TheObjectOfYourAffection.dll
+C:\Users\aeren\Desktop\Programming\codecademy\TheObjectOfYourAffection\TheObjectOfYourAffection\obj\Debug\net8.0\refint\TheObjectOfYourAffection.dll
+C:\Users\aeren\Desktop\Programming\codecademy\TheObjectOfYourAffection\TheObjectOfYourAffection\obj\Debug\net8.0\TheObjectOfYourAffection.pdb
+C:\Users\aeren\Desktop\Programming\codecademy\TheObjectOfYourAffection\TheObjectOfYourAffection\obj\Debug\net8.0\TheObjectOfYourAffection.genruntimeconfig.cache
+C:\Users\aeren\Desktop\Programming\codecademy\TheObjectOfYourAffection\TheObjectOfYourAffection\obj\Debug\net8.0\ref\TheObjectOfYourAffection.dll

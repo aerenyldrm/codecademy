@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aeren\\Desktop\\Programming\\codecademy\\CorporatePolymorphism\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C9B9BE8-CD00-4124-BF04-FB8B92A85CA5}|CorporatePolymorphism\\CorporatePolymorphism.csproj|c:\\users\\aeren\\desktop\\programming\\codecademy\\corporatepolymorphism\\corporatepolymorphism\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C9B9BE8-CD00-4124-BF04-FB8B92A85CA5}|CorporatePolymorphism\\CorporatePolymorphism.csproj|solutionrelative:corporatepolymorphism\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C9B9BE8-CD00-4124-BF04-FB8B92A85CA5}|CorporatePolymorphism\\CorporatePolymorphism.csproj|c:\\users\\aeren\\desktop\\programming\\codecademy\\corporatepolymorphism\\corporatepolymorphism\\hr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C9B9BE8-CD00-4124-BF04-FB8B92A85CA5}|CorporatePolymorphism\\CorporatePolymorphism.csproj|solutionrelative:corporatepolymorphism\\hr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C9B9BE8-CD00-4124-BF04-FB8B92A85CA5}|CorporatePolymorphism\\CorporatePolymorphism.csproj|c:\\users\\aeren\\desktop\\programming\\codecademy\\corporatepolymorphism\\corporatepolymorphism\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C9B9BE8-CD00-4124-BF04-FB8B92A85CA5}|CorporatePolymorphism\\CorporatePolymorphism.csproj|solutionrelative:corporatepolymorphism\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C9B9BE8-CD00-4124-BF04-FB8B92A85CA5}|CorporatePolymorphism\\CorporatePolymorphism.csproj|c:\\users\\aeren\\desktop\\programming\\codecademy\\corporatepolymorphism\\corporatepolymorphism\\intern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C9B9BE8-CD00-4124-BF04-FB8B92A85CA5}|CorporatePolymorphism\\CorporatePolymorphism.csproj|solutionrelative:corporatepolymorphism\\intern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C9B9BE8-CD00-4124-BF04-FB8B92A85CA5}|CorporatePolymorphism\\CorporatePolymorphism.csproj|c:\\users\\aeren\\desktop\\programming\\codecademy\\corporatepolymorphism\\corporatepolymorphism\\engineer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C9B9BE8-CD00-4124-BF04-FB8B92A85CA5}|CorporatePolymorphism\\CorporatePolymorphism.csproj|solutionrelative:corporatepolymorphism\\engineer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C9B9BE8-CD00-4124-BF04-FB8B92A85CA5}|CorporatePolymorphism\\CorporatePolymorphism.csproj|c:\\users\\aeren\\desktop\\programming\\codecademy\\corporatepolymorphism\\corporatepolymorphism\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C9B9BE8-CD00-4124-BF04-FB8B92A85CA5}|CorporatePolymorphism\\CorporatePolymorphism.csproj|solutionrelative:corporatepolymorphism\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aeren\\Desktop\\Programming\\codecademy\\CorporatePolymorphism\\CorporatePolymorphism\\Program.cs",
+              "RelativeDocumentMoniker": "CorporatePolymorphism\\Program.cs",
+              "ToolTip": "C:\\Users\\aeren\\Desktop\\Programming\\codecademy\\CorporatePolymorphism\\CorporatePolymorphism\\Program.cs",
+              "RelativeToolTip": "CorporatePolymorphism\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T12:10:30.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\aeren\\Desktop\\Programming\\codecademy\\CorporatePolymorphism\\CorporatePolymorphism\\Employee.cs",
+              "RelativeDocumentMoniker": "CorporatePolymorphism\\Employee.cs",
+              "ToolTip": "C:\\Users\\aeren\\Desktop\\Programming\\codecademy\\CorporatePolymorphism\\CorporatePolymorphism\\Employee.cs",
+              "RelativeToolTip": "CorporatePolymorphism\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T12:11:11.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Engineer.cs",
+              "DocumentMoniker": "C:\\Users\\aeren\\Desktop\\Programming\\codecademy\\CorporatePolymorphism\\CorporatePolymorphism\\Engineer.cs",
+              "RelativeDocumentMoniker": "CorporatePolymorphism\\Engineer.cs",
+              "ToolTip": "C:\\Users\\aeren\\Desktop\\Programming\\codecademy\\CorporatePolymorphism\\CorporatePolymorphism\\Engineer.cs",
+              "RelativeToolTip": "CorporatePolymorphism\\Engineer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T12:12:32.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Intern.cs",
+              "DocumentMoniker": "C:\\Users\\aeren\\Desktop\\Programming\\codecademy\\CorporatePolymorphism\\CorporatePolymorphism\\Intern.cs",
+              "RelativeDocumentMoniker": "CorporatePolymorphism\\Intern.cs",
+              "ToolTip": "C:\\Users\\aeren\\Desktop\\Programming\\codecademy\\CorporatePolymorphism\\CorporatePolymorphism\\Intern.cs",
+              "RelativeToolTip": "CorporatePolymorphism\\Intern.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T12:13:47.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Users\\aeren\\Desktop\\Programming\\codecademy\\CorporatePolymorphism\\CorporatePolymorphism\\Manager.cs",
+              "RelativeDocumentMoniker": "CorporatePolymorphism\\Manager.cs",
+              "ToolTip": "C:\\Users\\aeren\\Desktop\\Programming\\codecademy\\CorporatePolymorphism\\CorporatePolymorphism\\Manager.cs",
+              "RelativeToolTip": "CorporatePolymorphism\\Manager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T12:14:30.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HR.cs",
+              "DocumentMoniker": "C:\\Users\\aeren\\Desktop\\Programming\\codecademy\\CorporatePolymorphism\\CorporatePolymorphism\\HR.cs",
+              "RelativeDocumentMoniker": "CorporatePolymorphism\\HR.cs",
+              "ToolTip": "C:\\Users\\aeren\\Desktop\\Programming\\codecademy\\CorporatePolymorphism\\CorporatePolymorphism\\HR.cs",
+              "RelativeToolTip": "CorporatePolymorphism\\HR.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T12:15:01.525Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

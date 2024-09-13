@@ -1,0 +1,15 @@
+C:\Users\aeren\Desktop\Programming\codecademy\BibliographicalInheritance\BibliographicalInheritance\bin\Debug\net8.0\BibliographicalInheritance.exe
+C:\Users\aeren\Desktop\Programming\codecademy\BibliographicalInheritance\BibliographicalInheritance\bin\Debug\net8.0\BibliographicalInheritance.deps.json
+C:\Users\aeren\Desktop\Programming\codecademy\BibliographicalInheritance\BibliographicalInheritance\bin\Debug\net8.0\BibliographicalInheritance.runtimeconfig.json
+C:\Users\aeren\Desktop\Programming\codecademy\BibliographicalInheritance\BibliographicalInheritance\bin\Debug\net8.0\BibliographicalInheritance.dll
+C:\Users\aeren\Desktop\Programming\codecademy\BibliographicalInheritance\BibliographicalInheritance\bin\Debug\net8.0\BibliographicalInheritance.pdb
+C:\Users\aeren\Desktop\Programming\codecademy\BibliographicalInheritance\BibliographicalInheritance\obj\Debug\net8.0\BibliographicalInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aeren\Desktop\Programming\codecademy\BibliographicalInheritance\BibliographicalInheritance\obj\Debug\net8.0\BibliographicalInheritance.AssemblyInfoInputs.cache
+C:\Users\aeren\Desktop\Programming\codecademy\BibliographicalInheritance\BibliographicalInheritance\obj\Debug\net8.0\BibliographicalInheritance.AssemblyInfo.cs
+C:\Users\aeren\Desktop\Programming\codecademy\BibliographicalInheritance\BibliographicalInheritance\obj\Debug\net8.0\BibliographicalInheritance.csproj.CoreCompileInputs.cache
+C:\Users\aeren\Desktop\Programming\codecademy\BibliographicalInheritance\BibliographicalInheritance\obj\Debug\net8.0\BibliographicalInheritance.sourcelink.json
+C:\Users\aeren\Desktop\Programming\codecademy\BibliographicalInheritance\BibliographicalInheritance\obj\Debug\net8.0\BibliographicalInheritance.dll
+C:\Users\aeren\Desktop\Programming\codecademy\BibliographicalInheritance\BibliographicalInheritance\obj\Debug\net8.0\refint\BibliographicalInheritance.dll
+C:\Users\aeren\Desktop\Programming\codecademy\BibliographicalInheritance\BibliographicalInheritance\obj\Debug\net8.0\BibliographicalInheritance.pdb
+C:\Users\aeren\Desktop\Programming\codecademy\BibliographicalInheritance\BibliographicalInheritance\obj\Debug\net8.0\BibliographicalInheritance.genruntimeconfig.cache
+C:\Users\aeren\Desktop\Programming\codecademy\BibliographicalInheritance\BibliographicalInheritance\obj\Debug\net8.0\ref\BibliographicalInheritance.dll

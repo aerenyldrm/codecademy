@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aeren\\Desktop\\Programming\\codecademy\\BibliographicalInheritance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5278AE2-3362-4C89-859E-AB3BD1D03E7E}|BibliographicalInheritance\\BibliographicalInheritance.csproj|c:\\users\\aeren\\desktop\\programming\\codecademy\\bibliographicalinheritance\\bibliographicalinheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5278AE2-3362-4C89-859E-AB3BD1D03E7E}|BibliographicalInheritance\\BibliographicalInheritance.csproj|solutionrelative:bibliographicalinheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5278AE2-3362-4C89-859E-AB3BD1D03E7E}|BibliographicalInheritance\\BibliographicalInheritance.csproj|c:\\users\\aeren\\desktop\\programming\\codecademy\\bibliographicalinheritance\\bibliographicalinheritance\\video.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5278AE2-3362-4C89-859E-AB3BD1D03E7E}|BibliographicalInheritance\\BibliographicalInheritance.csproj|solutionrelative:bibliographicalinheritance\\video.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5278AE2-3362-4C89-859E-AB3BD1D03E7E}|BibliographicalInheritance\\BibliographicalInheritance.csproj|c:\\users\\aeren\\desktop\\programming\\codecademy\\bibliographicalinheritance\\bibliographicalinheritance\\periodical.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5278AE2-3362-4C89-859E-AB3BD1D03E7E}|BibliographicalInheritance\\BibliographicalInheritance.csproj|solutionrelative:bibliographicalinheritance\\periodical.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5278AE2-3362-4C89-859E-AB3BD1D03E7E}|BibliographicalInheritance\\BibliographicalInheritance.csproj|c:\\users\\aeren\\desktop\\programming\\codecademy\\bibliographicalinheritance\\bibliographicalinheritance\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5278AE2-3362-4C89-859E-AB3BD1D03E7E}|BibliographicalInheritance\\BibliographicalInheritance.csproj|solutionrelative:bibliographicalinheritance\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5278AE2-3362-4C89-859E-AB3BD1D03E7E}|BibliographicalInheritance\\BibliographicalInheritance.csproj|c:\\users\\aeren\\desktop\\programming\\codecademy\\bibliographicalinheritance\\bibliographicalinheritance\\resource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5278AE2-3362-4C89-859E-AB3BD1D03E7E}|BibliographicalInheritance\\BibliographicalInheritance.csproj|solutionrelative:bibliographicalinheritance\\resource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aeren\\Desktop\\Programming\\codecademy\\BibliographicalInheritance\\BibliographicalInheritance\\Program.cs",
+              "RelativeDocumentMoniker": "BibliographicalInheritance\\Program.cs",
+              "ToolTip": "C:\\Users\\aeren\\Desktop\\Programming\\codecademy\\BibliographicalInheritance\\BibliographicalInheritance\\Program.cs",
+              "RelativeToolTip": "BibliographicalInheritance\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T11:06:26.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Resource.cs",
+              "DocumentMoniker": "C:\\Users\\aeren\\Desktop\\Programming\\codecademy\\BibliographicalInheritance\\BibliographicalInheritance\\Resource.cs",
+              "RelativeDocumentMoniker": "BibliographicalInheritance\\Resource.cs",
+              "ToolTip": "C:\\Users\\aeren\\Desktop\\Programming\\codecademy\\BibliographicalInheritance\\BibliographicalInheritance\\Resource.cs",
+              "RelativeToolTip": "BibliographicalInheritance\\Resource.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T11:07:08.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\aeren\\Desktop\\Programming\\codecademy\\BibliographicalInheritance\\BibliographicalInheritance\\Book.cs",
+              "RelativeDocumentMoniker": "BibliographicalInheritance\\Book.cs",
+              "ToolTip": "C:\\Users\\aeren\\Desktop\\Programming\\codecademy\\BibliographicalInheritance\\BibliographicalInheritance\\Book.cs",
+              "RelativeToolTip": "BibliographicalInheritance\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T11:10:57.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Periodical.cs",
+              "DocumentMoniker": "C:\\Users\\aeren\\Desktop\\Programming\\codecademy\\BibliographicalInheritance\\BibliographicalInheritance\\Periodical.cs",
+              "RelativeDocumentMoniker": "BibliographicalInheritance\\Periodical.cs",
+              "ToolTip": "C:\\Users\\aeren\\Desktop\\Programming\\codecademy\\BibliographicalInheritance\\BibliographicalInheritance\\Periodical.cs",
+              "RelativeToolTip": "BibliographicalInheritance\\Periodical.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T11:14:11.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Video.cs",
+              "DocumentMoniker": "C:\\Users\\aeren\\Desktop\\Programming\\codecademy\\BibliographicalInheritance\\BibliographicalInheritance\\Video.cs",
+              "RelativeDocumentMoniker": "BibliographicalInheritance\\Video.cs",
+              "ToolTip": "C:\\Users\\aeren\\Desktop\\Programming\\codecademy\\BibliographicalInheritance\\BibliographicalInheritance\\Video.cs",
+              "RelativeToolTip": "BibliographicalInheritance\\Video.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T11:17:08.144Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

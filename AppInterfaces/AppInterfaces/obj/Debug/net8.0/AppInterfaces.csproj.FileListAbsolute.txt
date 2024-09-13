@@ -1,0 +1,15 @@
+C:\Users\aeren\Desktop\Programming\codecademy\AppInterfaces\AppInterfaces\bin\Debug\net8.0\AppInterfaces.exe
+C:\Users\aeren\Desktop\Programming\codecademy\AppInterfaces\AppInterfaces\bin\Debug\net8.0\AppInterfaces.deps.json
+C:\Users\aeren\Desktop\Programming\codecademy\AppInterfaces\AppInterfaces\bin\Debug\net8.0\AppInterfaces.runtimeconfig.json
+C:\Users\aeren\Desktop\Programming\codecademy\AppInterfaces\AppInterfaces\bin\Debug\net8.0\AppInterfaces.dll
+C:\Users\aeren\Desktop\Programming\codecademy\AppInterfaces\AppInterfaces\bin\Debug\net8.0\AppInterfaces.pdb
+C:\Users\aeren\Desktop\Programming\codecademy\AppInterfaces\AppInterfaces\obj\Debug\net8.0\AppInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aeren\Desktop\Programming\codecademy\AppInterfaces\AppInterfaces\obj\Debug\net8.0\AppInterfaces.AssemblyInfoInputs.cache
+C:\Users\aeren\Desktop\Programming\codecademy\AppInterfaces\AppInterfaces\obj\Debug\net8.0\AppInterfaces.AssemblyInfo.cs
+C:\Users\aeren\Desktop\Programming\codecademy\AppInterfaces\AppInterfaces\obj\Debug\net8.0\AppInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\aeren\Desktop\Programming\codecademy\AppInterfaces\AppInterfaces\obj\Debug\net8.0\AppInterfaces.sourcelink.json
+C:\Users\aeren\Desktop\Programming\codecademy\AppInterfaces\AppInterfaces\obj\Debug\net8.0\AppInterfaces.dll
+C:\Users\aeren\Desktop\Programming\codecademy\AppInterfaces\AppInterfaces\obj\Debug\net8.0\refint\AppInterfaces.dll
+C:\Users\aeren\Desktop\Programming\codecademy\AppInterfaces\AppInterfaces\obj\Debug\net8.0\AppInterfaces.pdb
+C:\Users\aeren\Desktop\Programming\codecademy\AppInterfaces\AppInterfaces\obj\Debug\net8.0\AppInterfaces.genruntimeconfig.cache
+C:\Users\aeren\Desktop\Programming\codecademy\AppInterfaces\AppInterfaces\obj\Debug\net8.0\ref\AppInterfaces.dll

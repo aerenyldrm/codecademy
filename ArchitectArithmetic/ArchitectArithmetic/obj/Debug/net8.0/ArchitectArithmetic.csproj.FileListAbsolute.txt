@@ -1,0 +1,15 @@
+C:\Users\aeren\Desktop\Programming\codecademy\ArchitectArithmetic\ArchitectArithmetic\bin\Debug\net8.0\ArchitectArithmetic.exe
+C:\Users\aeren\Desktop\Programming\codecademy\ArchitectArithmetic\ArchitectArithmetic\bin\Debug\net8.0\ArchitectArithmetic.deps.json
+C:\Users\aeren\Desktop\Programming\codecademy\ArchitectArithmetic\ArchitectArithmetic\bin\Debug\net8.0\ArchitectArithmetic.runtimeconfig.json
+C:\Users\aeren\Desktop\Programming\codecademy\ArchitectArithmetic\ArchitectArithmetic\bin\Debug\net8.0\ArchitectArithmetic.dll
+C:\Users\aeren\Desktop\Programming\codecademy\ArchitectArithmetic\ArchitectArithmetic\bin\Debug\net8.0\ArchitectArithmetic.pdb
+C:\Users\aeren\Desktop\Programming\codecademy\ArchitectArithmetic\ArchitectArithmetic\obj\Debug\net8.0\ArchitectArithmetic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aeren\Desktop\Programming\codecademy\ArchitectArithmetic\ArchitectArithmetic\obj\Debug\net8.0\ArchitectArithmetic.AssemblyInfoInputs.cache
+C:\Users\aeren\Desktop\Programming\codecademy\ArchitectArithmetic\ArchitectArithmetic\obj\Debug\net8.0\ArchitectArithmetic.AssemblyInfo.cs
+C:\Users\aeren\Desktop\Programming\codecademy\ArchitectArithmetic\ArchitectArithmetic\obj\Debug\net8.0\ArchitectArithmetic.csproj.CoreCompileInputs.cache
+C:\Users\aeren\Desktop\Programming\codecademy\ArchitectArithmetic\ArchitectArithmetic\obj\Debug\net8.0\ArchitectArithmetic.sourcelink.json
+C:\Users\aeren\Desktop\Programming\codecademy\ArchitectArithmetic\ArchitectArithmetic\obj\Debug\net8.0\ArchitectArithmetic.dll
+C:\Users\aeren\Desktop\Programming\codecademy\ArchitectArithmetic\ArchitectArithmetic\obj\Debug\net8.0\refint\ArchitectArithmetic.dll
+C:\Users\aeren\Desktop\Programming\codecademy\ArchitectArithmetic\ArchitectArithmetic\obj\Debug\net8.0\ArchitectArithmetic.pdb
+C:\Users\aeren\Desktop\Programming\codecademy\ArchitectArithmetic\ArchitectArithmetic\obj\Debug\net8.0\ArchitectArithmetic.genruntimeconfig.cache
+C:\Users\aeren\Desktop\Programming\codecademy\ArchitectArithmetic\ArchitectArithmetic\obj\Debug\net8.0\ref\ArchitectArithmetic.dll
