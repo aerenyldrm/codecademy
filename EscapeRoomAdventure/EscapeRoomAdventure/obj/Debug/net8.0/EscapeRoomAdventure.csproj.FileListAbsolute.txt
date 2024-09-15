@@ -1,0 +1,15 @@
+C:\Users\aeren\Desktop\Programming\codecademy\EscapeRoomAdventure\EscapeRoomAdventure\bin\Debug\net8.0\EscapeRoomAdventure.exe
+C:\Users\aeren\Desktop\Programming\codecademy\EscapeRoomAdventure\EscapeRoomAdventure\bin\Debug\net8.0\EscapeRoomAdventure.deps.json
+C:\Users\aeren\Desktop\Programming\codecademy\EscapeRoomAdventure\EscapeRoomAdventure\bin\Debug\net8.0\EscapeRoomAdventure.runtimeconfig.json
+C:\Users\aeren\Desktop\Programming\codecademy\EscapeRoomAdventure\EscapeRoomAdventure\bin\Debug\net8.0\EscapeRoomAdventure.dll
+C:\Users\aeren\Desktop\Programming\codecademy\EscapeRoomAdventure\EscapeRoomAdventure\bin\Debug\net8.0\EscapeRoomAdventure.pdb
+C:\Users\aeren\Desktop\Programming\codecademy\EscapeRoomAdventure\EscapeRoomAdventure\obj\Debug\net8.0\EscapeRoomAdventure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aeren\Desktop\Programming\codecademy\EscapeRoomAdventure\EscapeRoomAdventure\obj\Debug\net8.0\EscapeRoomAdventure.AssemblyInfoInputs.cache
+C:\Users\aeren\Desktop\Programming\codecademy\EscapeRoomAdventure\EscapeRoomAdventure\obj\Debug\net8.0\EscapeRoomAdventure.AssemblyInfo.cs
+C:\Users\aeren\Desktop\Programming\codecademy\EscapeRoomAdventure\EscapeRoomAdventure\obj\Debug\net8.0\EscapeRoomAdventure.csproj.CoreCompileInputs.cache
+C:\Users\aeren\Desktop\Programming\codecademy\EscapeRoomAdventure\EscapeRoomAdventure\obj\Debug\net8.0\EscapeRoomAdventure.sourcelink.json
+C:\Users\aeren\Desktop\Programming\codecademy\EscapeRoomAdventure\EscapeRoomAdventure\obj\Debug\net8.0\EscapeRoomAdventure.dll
+C:\Users\aeren\Desktop\Programming\codecademy\EscapeRoomAdventure\EscapeRoomAdventure\obj\Debug\net8.0\refint\EscapeRoomAdventure.dll
+C:\Users\aeren\Desktop\Programming\codecademy\EscapeRoomAdventure\EscapeRoomAdventure\obj\Debug\net8.0\EscapeRoomAdventure.pdb
+C:\Users\aeren\Desktop\Programming\codecademy\EscapeRoomAdventure\EscapeRoomAdventure\obj\Debug\net8.0\EscapeRoomAdventure.genruntimeconfig.cache
+C:\Users\aeren\Desktop\Programming\codecademy\EscapeRoomAdventure\EscapeRoomAdventure\obj\Debug\net8.0\ref\EscapeRoomAdventure.dll
