@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aeren\\Desktop\\Programming\\codecademy\\RoverControlCenter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F13E010E-B460-4CF8-B589-03DA9D9B235B}|RoverControlCenter\\RoverControlCenter.csproj|c:\\users\\aeren\\desktop\\programming\\codecademy\\rovercontrolcenter\\rovercontrolcenter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F13E010E-B460-4CF8-B589-03DA9D9B235B}|RoverControlCenter\\RoverControlCenter.csproj|solutionrelative:rovercontrolcenter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F13E010E-B460-4CF8-B589-03DA9D9B235B}|RoverControlCenter\\RoverControlCenter.csproj|c:\\users\\aeren\\desktop\\programming\\codecademy\\rovercontrolcenter\\rovercontrolcenter\\idirectable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F13E010E-B460-4CF8-B589-03DA9D9B235B}|RoverControlCenter\\RoverControlCenter.csproj|solutionrelative:rovercontrolcenter\\idirectable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F13E010E-B460-4CF8-B589-03DA9D9B235B}|RoverControlCenter\\RoverControlCenter.csproj|c:\\users\\aeren\\desktop\\programming\\codecademy\\rovercontrolcenter\\rovercontrolcenter\\rover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F13E010E-B460-4CF8-B589-03DA9D9B235B}|RoverControlCenter\\RoverControlCenter.csproj|solutionrelative:rovercontrolcenter\\rover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F13E010E-B460-4CF8-B589-03DA9D9B235B}|RoverControlCenter\\RoverControlCenter.csproj|c:\\users\\aeren\\desktop\\programming\\codecademy\\rovercontrolcenter\\rovercontrolcenter\\satellite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F13E010E-B460-4CF8-B589-03DA9D9B235B}|RoverControlCenter\\RoverControlCenter.csproj|solutionrelative:rovercontrolcenter\\satellite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F13E010E-B460-4CF8-B589-03DA9D9B235B}|RoverControlCenter\\RoverControlCenter.csproj|c:\\users\\aeren\\desktop\\programming\\codecademy\\rovercontrolcenter\\rovercontrolcenter\\marsrover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F13E010E-B460-4CF8-B589-03DA9D9B235B}|RoverControlCenter\\RoverControlCenter.csproj|solutionrelative:rovercontrolcenter\\marsrover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F13E010E-B460-4CF8-B589-03DA9D9B235B}|RoverControlCenter\\RoverControlCenter.csproj|c:\\users\\aeren\\desktop\\programming\\codecademy\\rovercontrolcenter\\rovercontrolcenter\\moonrover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F13E010E-B460-4CF8-B589-03DA9D9B235B}|RoverControlCenter\\RoverControlCenter.csproj|solutionrelative:rovercontrolcenter\\moonrover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aeren\\Desktop\\Programming\\codecademy\\RoverControlCenter\\RoverControlCenter\\Program.cs",
+              "RelativeDocumentMoniker": "RoverControlCenter\\Program.cs",
+              "ToolTip": "C:\\Users\\aeren\\Desktop\\Programming\\codecademy\\RoverControlCenter\\RoverControlCenter\\Program.cs",
+              "RelativeToolTip": "RoverControlCenter\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T08:21:47.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IDirectable.cs",
+              "DocumentMoniker": "C:\\Users\\aeren\\Desktop\\Programming\\codecademy\\RoverControlCenter\\RoverControlCenter\\IDirectable.cs",
+              "RelativeDocumentMoniker": "RoverControlCenter\\IDirectable.cs",
+              "ToolTip": "C:\\Users\\aeren\\Desktop\\Programming\\codecademy\\RoverControlCenter\\RoverControlCenter\\IDirectable.cs",
+              "RelativeToolTip": "RoverControlCenter\\IDirectable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T08:22:34.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Rover.cs",
+              "DocumentMoniker": "C:\\Users\\aeren\\Desktop\\Programming\\codecademy\\RoverControlCenter\\RoverControlCenter\\Rover.cs",
+              "RelativeDocumentMoniker": "RoverControlCenter\\Rover.cs",
+              "ToolTip": "C:\\Users\\aeren\\Desktop\\Programming\\codecademy\\RoverControlCenter\\RoverControlCenter\\Rover.cs",
+              "RelativeToolTip": "RoverControlCenter\\Rover.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAywBMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T08:23:22.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Satellite.cs",
+              "DocumentMoniker": "C:\\Users\\aeren\\Desktop\\Programming\\codecademy\\RoverControlCenter\\RoverControlCenter\\Satellite.cs",
+              "RelativeDocumentMoniker": "RoverControlCenter\\Satellite.cs",
+              "ToolTip": "C:\\Users\\aeren\\Desktop\\Programming\\codecademy\\RoverControlCenter\\RoverControlCenter\\Satellite.cs",
+              "RelativeToolTip": "RoverControlCenter\\Satellite.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAIwBsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T08:23:49.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MarsRover.cs",
+              "DocumentMoniker": "C:\\Users\\aeren\\Desktop\\Programming\\codecademy\\RoverControlCenter\\RoverControlCenter\\MarsRover.cs",
+              "RelativeDocumentMoniker": "RoverControlCenter\\MarsRover.cs",
+              "ToolTip": "C:\\Users\\aeren\\Desktop\\Programming\\codecademy\\RoverControlCenter\\RoverControlCenter\\MarsRover.cs",
+              "RelativeToolTip": "RoverControlCenter\\MarsRover.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T08:25:54.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MoonRover.cs",
+              "DocumentMoniker": "C:\\Users\\aeren\\Desktop\\Programming\\codecademy\\RoverControlCenter\\RoverControlCenter\\MoonRover.cs",
+              "RelativeDocumentMoniker": "RoverControlCenter\\MoonRover.cs",
+              "ToolTip": "C:\\Users\\aeren\\Desktop\\Programming\\codecademy\\RoverControlCenter\\RoverControlCenter\\MoonRover.cs",
+              "RelativeToolTip": "RoverControlCenter\\MoonRover.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T08:26:16.689Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

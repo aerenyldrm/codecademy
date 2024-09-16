@@ -1,0 +1,15 @@
+C:\Users\aeren\Desktop\Programming\codecademy\RoverControlCenter\RoverControlCenter\bin\Debug\net8.0\RoverControlCenter.exe
+C:\Users\aeren\Desktop\Programming\codecademy\RoverControlCenter\RoverControlCenter\bin\Debug\net8.0\RoverControlCenter.deps.json
+C:\Users\aeren\Desktop\Programming\codecademy\RoverControlCenter\RoverControlCenter\bin\Debug\net8.0\RoverControlCenter.runtimeconfig.json
+C:\Users\aeren\Desktop\Programming\codecademy\RoverControlCenter\RoverControlCenter\bin\Debug\net8.0\RoverControlCenter.dll
+C:\Users\aeren\Desktop\Programming\codecademy\RoverControlCenter\RoverControlCenter\bin\Debug\net8.0\RoverControlCenter.pdb
+C:\Users\aeren\Desktop\Programming\codecademy\RoverControlCenter\RoverControlCenter\obj\Debug\net8.0\RoverControlCenter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aeren\Desktop\Programming\codecademy\RoverControlCenter\RoverControlCenter\obj\Debug\net8.0\RoverControlCenter.AssemblyInfoInputs.cache
+C:\Users\aeren\Desktop\Programming\codecademy\RoverControlCenter\RoverControlCenter\obj\Debug\net8.0\RoverControlCenter.AssemblyInfo.cs
+C:\Users\aeren\Desktop\Programming\codecademy\RoverControlCenter\RoverControlCenter\obj\Debug\net8.0\RoverControlCenter.csproj.CoreCompileInputs.cache
+C:\Users\aeren\Desktop\Programming\codecademy\RoverControlCenter\RoverControlCenter\obj\Debug\net8.0\RoverControlCenter.sourcelink.json
+C:\Users\aeren\Desktop\Programming\codecademy\RoverControlCenter\RoverControlCenter\obj\Debug\net8.0\RoverControlCenter.dll
+C:\Users\aeren\Desktop\Programming\codecademy\RoverControlCenter\RoverControlCenter\obj\Debug\net8.0\refint\RoverControlCenter.dll
+C:\Users\aeren\Desktop\Programming\codecademy\RoverControlCenter\RoverControlCenter\obj\Debug\net8.0\RoverControlCenter.pdb
+C:\Users\aeren\Desktop\Programming\codecademy\RoverControlCenter\RoverControlCenter\obj\Debug\net8.0\RoverControlCenter.genruntimeconfig.cache
+C:\Users\aeren\Desktop\Programming\codecademy\RoverControlCenter\RoverControlCenter\obj\Debug\net8.0\ref\RoverControlCenter.dll
