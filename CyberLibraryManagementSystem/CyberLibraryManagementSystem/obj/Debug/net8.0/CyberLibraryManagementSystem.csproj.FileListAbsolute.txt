@@ -1,0 +1,15 @@
+C:\Users\aeren\Desktop\Programming\codecademy\CyberLibraryManagementSystem\CyberLibraryManagementSystem\bin\Debug\net8.0\CyberLibraryManagementSystem.exe
+C:\Users\aeren\Desktop\Programming\codecademy\CyberLibraryManagementSystem\CyberLibraryManagementSystem\bin\Debug\net8.0\CyberLibraryManagementSystem.deps.json
+C:\Users\aeren\Desktop\Programming\codecademy\CyberLibraryManagementSystem\CyberLibraryManagementSystem\bin\Debug\net8.0\CyberLibraryManagementSystem.runtimeconfig.json
+C:\Users\aeren\Desktop\Programming\codecademy\CyberLibraryManagementSystem\CyberLibraryManagementSystem\bin\Debug\net8.0\CyberLibraryManagementSystem.dll
+C:\Users\aeren\Desktop\Programming\codecademy\CyberLibraryManagementSystem\CyberLibraryManagementSystem\bin\Debug\net8.0\CyberLibraryManagementSystem.pdb
+C:\Users\aeren\Desktop\Programming\codecademy\CyberLibraryManagementSystem\CyberLibraryManagementSystem\obj\Debug\net8.0\CyberLibraryManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aeren\Desktop\Programming\codecademy\CyberLibraryManagementSystem\CyberLibraryManagementSystem\obj\Debug\net8.0\CyberLibraryManagementSystem.AssemblyInfoInputs.cache
+C:\Users\aeren\Desktop\Programming\codecademy\CyberLibraryManagementSystem\CyberLibraryManagementSystem\obj\Debug\net8.0\CyberLibraryManagementSystem.AssemblyInfo.cs
+C:\Users\aeren\Desktop\Programming\codecademy\CyberLibraryManagementSystem\CyberLibraryManagementSystem\obj\Debug\net8.0\CyberLibraryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\aeren\Desktop\Programming\codecademy\CyberLibraryManagementSystem\CyberLibraryManagementSystem\obj\Debug\net8.0\CyberLibraryManagementSystem.sourcelink.json
+C:\Users\aeren\Desktop\Programming\codecademy\CyberLibraryManagementSystem\CyberLibraryManagementSystem\obj\Debug\net8.0\CyberLibraryManagementSystem.dll
+C:\Users\aeren\Desktop\Programming\codecademy\CyberLibraryManagementSystem\CyberLibraryManagementSystem\obj\Debug\net8.0\refint\CyberLibraryManagementSystem.dll
+C:\Users\aeren\Desktop\Programming\codecademy\CyberLibraryManagementSystem\CyberLibraryManagementSystem\obj\Debug\net8.0\CyberLibraryManagementSystem.pdb
+C:\Users\aeren\Desktop\Programming\codecademy\CyberLibraryManagementSystem\CyberLibraryManagementSystem\obj\Debug\net8.0\CyberLibraryManagementSystem.genruntimeconfig.cache
+C:\Users\aeren\Desktop\Programming\codecademy\CyberLibraryManagementSystem\CyberLibraryManagementSystem\obj\Debug\net8.0\ref\CyberLibraryManagementSystem.dll
